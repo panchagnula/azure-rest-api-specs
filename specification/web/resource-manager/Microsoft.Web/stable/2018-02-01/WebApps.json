@@ -17093,7 +17093,7 @@
               "type": "string",
               "readOnly": true
             },
-            "backupName": {
+            "name": {
               "description": "Name of this backup.",
               "type": "string",
               "readOnly": true
